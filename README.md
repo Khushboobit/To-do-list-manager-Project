@@ -1,6 +1,6 @@
 # To-do-list-manager-Project
 <br>
-this is my self made project.
+This is my self made project.
 
 Project Structure
 
