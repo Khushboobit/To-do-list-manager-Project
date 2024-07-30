@@ -2,8 +2,6 @@
 <br>
 this is my self made project.
 
-A to-do list manager project in Python is a great way to practice programming and problem-solving skills. Here's a simple example of a console-based to-do list manager.
-
 Project Structure
 
 The to-do list manager will have the following features:
